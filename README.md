@@ -1,6 +1,8 @@
 # Scientific Python HATS
 
-**FIXME:** Introduction!
+This Hands on Tutorial Session (HATS) is intended to provide you with basic familiarity of pyROOT, a Python extension module which provides bindings for all classes within the ROOT libraries and is easily used in unison with C++. The goal is to obtain a general understanding of the syntax required to import and make use of the ROOT libraries within a basic Python environment as well as to illustrate how to make use of C++ classes inside this environment in order to save computing time. We will also show rootpy, a newer and more Pythonic interface to utilize ROOT inside Python.
+
+Many analysts already use both Python and C++, though some students are inclined to stick closely to C++ in order to ensure their access to coding examples and experts, and are disinclined from using PyROOT due to the unusual nature of its documentation. It is our hope that through providing you with this basic introduction and Github repository of example scripts, that we can bring together the existing PyROOT/rootpy community within CMS and foster its growth. 
 
 ## Getting started
 
